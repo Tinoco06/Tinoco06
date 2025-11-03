@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jorge Tinoco</h1>
-<h3 align="center">A Computer Science Engineering student at the Universidad Católica de Honduras</h3>
+<h3 align="center">Computer Science Engineer</h3>
 
 - 🔭 I’m currently working on **My portfolio**
 
